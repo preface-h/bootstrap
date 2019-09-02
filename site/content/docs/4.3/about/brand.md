@@ -31,7 +31,7 @@ Use either the Bootstrap mark (a capital **B**) or the standard logo (just **Boo
 
 ## Download mark
 
-Download the Bootstrap mark in one of three styles, each available as an SVG file. Click to download the logo's.
+Download the Bootstrap mark in one of three styles, each available as an SVG file. Click to download the logos.
 
 <div class="bd-brand-logos d-sm-flex text-center bg-light rounded overflow-hidden w-100 mb-3">
   <a href="/docs/{{< param docs_version >}}/assets/brand/bootstrap-solid.svg" download class="bd-brand-item">
